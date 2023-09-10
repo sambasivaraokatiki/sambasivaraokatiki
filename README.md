@@ -11,10 +11,6 @@
 
 - 📫 How to reach me **sambasivarao.ts@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -42,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambasivaraokatiki&show_icons=true&locale=en" alt="sambasivaraokatiki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambasivaraokatiki&" alt="sambasivaraokatiki" /></p>
+
+
+<h3 align="left">Resume:</h3>
+<p align="left"><a href="https://github.com/sambasivaraokatiki/sambasivaraokatiki/blob/main/KatikiSambasivaRaoResume.pdf">Katiki Sambasiva Rao Resume</a> </p>
