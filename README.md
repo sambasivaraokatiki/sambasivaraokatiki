@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sambasivarao.ts@outlook.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies, Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com/iot-core/" target="_blank" rel="noreferrer"> <img src="https://github.com/awslabs/aws-icons-for-plantuml/raw/main/dist/InternetOfThings/IoTCore.png" alt="AWSIoTCore" width="40" height="40"/> </a>
