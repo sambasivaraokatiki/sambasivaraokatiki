@@ -40,5 +40,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambasivaraokatiki&" alt="sambasivaraokatiki" /></p>
 
 
-<h3 align="left">Resume:</h3>
-<p align="left"><a href="https://github.com/sambasivaraokatiki/sambasivaraokatiki/blob/main/KatikiSambasivaRaoResume.pdf">Katiki Sambasiva Rao Resume</a> </p>
+<h4 align="left">Resume: <a href="https://github.com/sambasivaraokatiki/sambasivaraokatiki/blob/main/KatikiSambasivaRaoResume.pdf">Katiki Sambasiva Rao Resume</a> </h4>
