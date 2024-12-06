@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **AWS, IoT, Greengrass, AWS Serverless, Django, AWS IAM, Serverless, VPC, Cloud Computation**
 
-- 📫 How to reach me **sambasivarao.ts@outlook.com**
 
 <h3 align="left">Technologies, Languages and Tools:</h3>
 <p align="left"> 
